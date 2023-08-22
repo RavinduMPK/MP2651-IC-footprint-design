@@ -4,7 +4,7 @@
  ## MP2651GVT-0000-P IC Description:
 
 **_The MP2651GVT-0000-P_** is a versatile and efficient integrated circuit designed for power management applications. Monolithic Power Systems (MPS), a semiconductor company specializing in power management solutions, likely developed this IC to provide solutions for various power-related tasks in electronic devices.
-![TQFN_30_4_5_MP2651_SPL](https://github.com/RavinduMPK/MP2651-IC-footprint-design/assets/68577937/3f2cc25b-8a56-447c-af8c-8d733a241ff5)
+![MP2651](https://github.com/RavinduMPK/MP2651-IC-footprint-design/assets/68577937/98b976c4-8392-49b4-850d-6612e838338d)
 
 Key features and capabilities of the MP2651GVT-0000-P might include:
 
