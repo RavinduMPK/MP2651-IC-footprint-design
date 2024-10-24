@@ -83,13 +83,7 @@ Before using the provided Altium footprint and symbol, ensure that you are using
    - After placing the symbol and footprint, you need to associate them. Select the placed symbol, then right-click and choose *Properties*.
    - In the *Properties* dialog, click on the *Footprint* field and select the corresponding footprint from the library.
 
-### Save and Export
 
-1. **Save Your Project:**
-   - Save your project to retain the symbol-footprint association and layout information.
-
-2. **Generate Manufacturing Files:**
-   - When your design is complete, use Altium Designer to generate the necessary manufacturing files, including Gerber files, BOM, and assembly drawings.
 
 ### Notes and Considerations
 
